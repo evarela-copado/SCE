@@ -8945,6 +8945,9 @@
     </layoutAssignments>
     <layoutAssignments>
         <layout>copado__User_Story__c-User Story Layout %28Unmanaged%29</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>copado__User_Story__c-User Story Layout %28Unmanaged%29</layout>
         <recordType>copado__User_Story__c.copado__Bug</recordType>
     </layoutAssignments>
     <layoutAssignments>
@@ -11931,6 +11934,10 @@
     <userPermissions>
         <enabled>true</enabled>
         <name>ManageRoles</name>
+    </userPermissions>
+    <userPermissions>
+        <enabled>true</enabled>
+        <name>ManageSandboxes</name>
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
